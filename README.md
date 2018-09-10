@@ -6,9 +6,9 @@ Find useful links below:
 
 - Android frontend [repository](https://github.com/MagdyA/MobTicks-android)
 
--Demo to the project's lifecycle [video](https://youtu.be/o98ekL-gKw0)
+- Demo to the project's lifecycle [video](https://youtu.be/o98ekL-gKw0)
 
--full documentation of the project [as pdf](https://drive.google.com/file/d/19rmIk6IBIhHGagK_WbRQHGqjeS53EO9G/view?usp=sharing).
+- Full documentation of the project [as pdf](https://drive.google.com/file/d/19rmIk6IBIhHGagK_WbRQHGqjeS53EO9G/view?usp=sharing).
 
 
 
