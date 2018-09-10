@@ -1,4 +1,4 @@
-# IMOBUTS-PN532
+# MobiTicks-PN532
 
 Please find the whole documentation of the project [here](https://drive.google.com/file/d/19rmIk6IBIhHGagK_WbRQHGqjeS53EO9G/view?usp=sharing).
 
